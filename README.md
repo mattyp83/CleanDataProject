@@ -3,7 +3,7 @@ CleanDataProject
 
 ####Unzip the data to your local drive
 
-####Create a new R script and save it to the same folder as the data
+####Save run_analysis.R to the directory
 
 ####set your working directory to the same directory in R-Studio - setwd("...")
 
